@@ -1,0 +1,35 @@
+
+---Downloaded files---
+The import files for: Photography Elementor were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://3tsoftware.local.com
+Data file = D:\xampp7430\www\3tsoftware.local.com/wp-content/uploads/2024/11/demo-content-import-file_2024-11-11__15-56-26.xml
+Widget file = D:\xampp7430\www\3tsoftware.local.com/wp-content/uploads/2024/11/demo-widgets-import-file_2024-11-11__15-56-26.json
+Customizer file = not defined!
+Redux files:
+pix_options -> D:\xampp7430\www\3tsoftware.local.com/wp-content/themes/essentials/inc/demo-content/sites/photography/photography-elementor-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+PixFort Search - Search - Imported
+PixFort Promo Box - Call to action - Imported
+Tag Cloud - No Title - Imported
+PixFort Recent Posts - Recent Posts - Imported
+PixFort Categories - Categories - Imported
+PixFort Social Links - Social Links - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: pix_options finished successfully!
